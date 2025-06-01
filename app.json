@@ -10,7 +10,7 @@
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "",
+            "value": "24602445",
             "required": true
         },
         "API_HASH": {
