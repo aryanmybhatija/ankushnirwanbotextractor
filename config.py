@@ -7,7 +7,7 @@ import os
 class Config(object):
     # get a token from @BotFather
     BOT_TOKEN = ""
-    API_ID = ""
+    API_ID = "24602445"
     API_HASH = ""
     AUTH_USERS = "6890400066"
 
